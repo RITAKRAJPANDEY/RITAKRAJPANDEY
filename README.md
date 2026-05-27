@@ -1,4 +1,4 @@
-![snake gif](https://github.com/RITAKRAJPANDEY/Kirat/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RITAKRAJPANDEY/RITAKRAJPANDEY/blob/output/github-snake-dark.svg)
 
 ## Hi there 👋
 
