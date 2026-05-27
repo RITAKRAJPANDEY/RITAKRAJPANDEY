@@ -1,3 +1,5 @@
+permissions:
+  contents: write  # Allows pushing code, creating tags/releases
 name: GitHub Snake Game
 
 
