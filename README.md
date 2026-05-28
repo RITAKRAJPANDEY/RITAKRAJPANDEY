@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/RITAKRAJPANDEY/RITAKRAJPANDEY/blob/output/github-snake-dark.svg)
 
-## Hi there 👋
+
 
 
 <!--
